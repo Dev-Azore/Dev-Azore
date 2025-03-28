@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on UI/UX Design
 - 📫 How to reach me? Whatsapp: +2347061110002
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Dev-Azore/Dev-Azore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
